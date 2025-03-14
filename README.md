@@ -1,1 +1,1 @@
-# Data-Scientist-Project-WorldQuant-University
+# Data-Scientist-Project
